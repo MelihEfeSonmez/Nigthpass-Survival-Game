@@ -9,7 +9,7 @@ Unlike standard game projects, this engine focuses on **algorithmic efficiency**
 ## 🚀 Technical Highlights
 * **Custom Data Structures:** Built a `Node`-based **AVL Tree** to handle insertions, deletions, and priority searches efficiently without prohibited libraries.
 * **Algorithmic Optimization:** Implemented a **Min-Max Priority System** to determine the optimal card to play (Survive & Kill vs. Sacrifice).
-* **Automated Testing:** Includes a custom **Python CI/CD Script** (`test_runner.py`) for regression testing and performance benchmarking.
+* **Automated Testing:** Includes a custom **Python Test Runner** (`test_runner.py`) for regression testing and performance benchmarking.
 
 ## 🏗️ System Architecture
 
